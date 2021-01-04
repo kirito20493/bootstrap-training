@@ -1,0 +1,156 @@
+@media (min-width:992px) and (max-width: 1199px){
+    .header-infor {
+        width: 80%;
+    }
+    .logo-navbar {
+        position: absolute;
+        width: 80%;
+        height: auto;
+        background-color: #1c2f4d;
+        border-radius: 2px 50px 50px 2px;;
+        top: -7%;
+        left: 10%;
+    }
+    .banner__inner-content-tittle {
+        font-size: 3rem;
+    }
+    .featuredCourses-item {
+        width: 80%;
+        left: 10%;
+    }
+    .society-content {
+        width: 80%;
+    }
+    .recentCourses-navbar-list {
+        width: 57%;
+    }
+    .recentCourses-list {
+        width: 80%;
+    }
+}
+@media (min-width:768px) and (max-width: 991.98px){
+    .header-infor {
+        width: 100%;
+    }
+    .logo-navbar {
+        position: absolute;
+        width: 100%;
+        height: auto;
+        background-color: #1c2f4d;
+        border-radius: 2px 2px 2px 2px;;
+        top: -7%;
+        left: 0%;
+    }
+    .banner__inner-content-tittle {
+        font-size: 2rem;
+    }
+    .banner__inner-content-text {
+        font-size: 1rem;
+    }
+    .banner__inner-bnt {
+        font-size: 0.8rem;
+        width: 140px;
+        height: 30px;
+    }
+    .featuredCourses-list {
+        height: 290px;
+    }
+    .society {
+        padding-top: 60px;
+    }
+    .featuredCourses-item {
+        width: 90%;
+        left: 5%;
+    }
+    .recentCourses-navbar-list {
+        width: 72%;
+    }
+    .recentCourses-list {
+        width: 90%;
+    }
+    .selectCourses-inner {
+        width: 80%;
+        left: 10%;
+    }
+}
+@media (min-width:576px) and (max-width:767.98px){
+    .header-infor {
+        width: 100%;
+    }
+    .logo-navbar {
+        position: absolute;
+        width: 100%;
+        height: auto;
+        background-color: #1c2f4d;
+        border-radius: 2px 2px 2px 2px;;
+        top: -7%;
+        left: 0%;
+    }
+    .banner__inner-content-tittle {
+        font-size: 2rem;
+    }
+    .banner__inner-content-text {
+        font-size: 1rem;
+    }
+    .banner__inner-bnt {
+        font-size: 0.8rem;
+        width: 140px;
+        height: 30px;
+    }
+    .featuredCourses-list {
+        height: 290px;
+    }
+    .society {
+        padding-top: 60px;
+    }
+    .featuredCourses-item {
+        width: 100%;
+        left: 0%;
+    }
+    .recentCourses-navbar-list {
+        width: 97%;
+    }
+    .society-content {
+        width: 90%;
+    }
+    .recentCourses-list {
+        width: 90%;
+    }
+    .selectCourses-inner {
+        width: 80%;
+        left: 10%;
+    }
+    .selectCourses-inner {
+        width: 100%;
+        left: 15px;
+    }
+    .header-infor {
+        display: none;
+    }
+    .logo-navbar-connect-list {
+        display: none;
+    }
+    .logo-navbar-search-input {
+        width: 180px;
+    }
+    .logo-navbar-login-btn {
+        width: 100px;  
+    }
+    .logo-navbar-content {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .banner__inner-bnt {
+        margin-top: 0;
+    }
+    .card-footer {
+        padding: 10px 2px;
+    }
+    .footer-inner {
+        width: 90%;
+    }
+    .selectCourses {
+        padding-bottom: 200px;
+    }
+}
